@@ -4,6 +4,6 @@ This is my way of creating a BST using classes. It takes an input a list of numb
 BST. Firstly, it displays the numbers in order, then it creates the visual representation of the BST via a table. The program also doesn't produce any
 memory leaks, as that was one of the requirements.
 
-## Assignemnt for University
+## Assignment for University
 
 Passed with 25/25.
